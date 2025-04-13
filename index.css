@@ -1,0 +1,82 @@
+body{
+    background-color: plum;
+}
+#con{
+    background-color: black;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#d1{
+    background-color: yellow;
+    width: 350px;
+    height: 550px;
+    
+}
+#d2{
+    background-color: yellow;
+    width: 350px;
+    height: 550px;
+    
+}
+#d3{
+    background-color: yellow;
+    width: 350px;
+    height: 550px;
+    
+}
+#da1{
+    width: 350px;
+    background-color: aqua;
+    height: 275px;
+    background-image: url("https://cdn.pixabay.com/photo/2023/10/01/16/01/rose-8287698_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 350px 275px;
+}
+#da2{
+    width: 350px;
+    background-color: rgb(60, 30, 125);
+    height: 275px;
+    font-size: 27px;
+    color:wheat;
+    text-align: center;
+    
+}
+
+
+#db1{
+    width: 350px;
+    background-color: aqua;
+    height: 275px;
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 350px 275px;
+}
+#db2{
+    width: 350px;
+    background-color: rgb(60, 30, 125);
+    height: 275px;
+    font-size: 27px;
+    color:wheat;
+    text-align: center;
+}
+
+
+#dc1{
+    width: 350px;
+    background-color: aqua;
+    height: 275px;
+    background-image: url("https://cdn.pixabay.com/photo/2023/11/06/09/43/lotus-8369252_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 350px 275px;
+}
+#dc2{
+    width: 350px;
+    background-color: rgb(60, 30, 125);
+    height: 275px;
+    font-size: 27px;
+    color:wheat;
+    text-align: center;
+}
